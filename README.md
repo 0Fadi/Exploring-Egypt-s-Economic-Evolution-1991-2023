@@ -1,4 +1,4 @@
-# 🇪🇬 Exploring Egypt's Economic Evolution (1991 - 2023)
+# Egypt-Economic-Analysis
 
 ## 📌 Project Overview
 This is a comprehensive macro-economic analysis of Egypt's journey over three decades. Using data from the **World Bank**, I analyzed key indicators such as GDP/GNP growth, trade deficits, and demographic impacts to understand the challenges and milestones of the Egyptian economy.
